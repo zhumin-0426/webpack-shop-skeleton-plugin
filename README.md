@@ -1,0 +1,1 @@
+# webpack-shop-skeleton-plugin
